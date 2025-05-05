@@ -1,4 +1,6 @@
-# California-Wildfire-Damage-Analysis-10-Year-Overview-This project presents a comprehensive 10-year analysis of wildfire damage in California, visualized through an Excel dashboard. The objective is to uncover the financial, structural, and geographic impacts of wildfires, their causes, and trends over time, aiding strategic response and prevention efforts.
+California-Wildfire-Damage-Analysis-10-Year-Overview
+
+This project presents a comprehensive 10-year analysis of wildfire damage in California, visualized through an Excel dashboard. The objective is to uncover the financial, structural, and geographic impacts of wildfires, their causes, and trends over time, aiding strategic response and prevention efforts.
 
 
 Project Objective
